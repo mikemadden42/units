@@ -1,4 +1,4 @@
-module units
+module github.com/mikemadden42/units
 
 go 1.13
 
