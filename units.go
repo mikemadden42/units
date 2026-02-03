@@ -1,3 +1,4 @@
+// Package main provides tools for converting units.
 package main
 
 import (
